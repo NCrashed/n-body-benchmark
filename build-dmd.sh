@@ -1,1 +1,1 @@
-dmd -ofnbody source/nbody.d -release -inline -noboundscheck -O -vtls
+dmd -ofnbody source/nbody.d -release -inline -noboundscheck -O
