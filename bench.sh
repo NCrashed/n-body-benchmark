@@ -1,0 +1,1 @@
+/usr/bin/time --verbose ./nbody 50000000 | tee "bench.log"
